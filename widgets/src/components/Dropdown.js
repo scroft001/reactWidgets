@@ -1,10 +1,8 @@
 import React from 'react'
 
-function Dropdown() {
-  return (
-    <div>
-      
-    </div>
+const Dropdown = () =>{
+  return(
+    <h1>Dropdown</h1>
   )
 }
 
